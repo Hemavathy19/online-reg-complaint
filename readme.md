@@ -8,10 +8,15 @@ The major goal of this project is to assist the general population in learning a
 
 ### Tools & Technologies for constructing ⚒️ ⚙️
 MongoDB - NoSQL database for storing data
+
 Express - Backend framework for building RESTful APIs
+
 React - Frontend framework for building user interfaces
+
 Node.js - JavaScript runtime environment for building scalable server-side applications
+
 JWT - JSON Web Token for user authentication and authorization
+
 Bcrypt - Password hashing library for secure password storage
 
 
